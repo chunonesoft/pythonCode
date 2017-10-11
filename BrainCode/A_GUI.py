@@ -84,6 +84,7 @@ option      = c_int(0)
 state     = c_int(0)
 
 
+
 win = tk.Tk()
 win.title("脑电运动想象系统")    # 添加标题
 
